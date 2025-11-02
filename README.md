@@ -5,17 +5,18 @@
 
 ## Hi! I'm Riley 👋
 I'm an aspiring **Software Developer**, with a passion for creating functional, professional applications. My passion for programming began in highschool, where we learned the fundamentals of programming through **game development**, via Greenfoot as well as Unity. I have a passion for **front-end development**, I enjoy blending creativty with logic and building experiences that are both user friendly and efficient. My goal is to continue growing as a developer while creating meaningful projects to help people in their day to day lives. 
-<!--
-**rstrauman/rstrauman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tech Tools ⚙️
+- Languages: JavaScript, C#
+- Tools: Git, GitHub, VS Code, Unity
+- Interests: Web Development, Game Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts 🎉
+- 👦 I have six younger siblings 
+- 🏀 My favourite sport is basketball
+- 💪 I am a Certified Personal Trainer through canfitpro
+
+## Connect with Me 🔗
+- [LinkdedIn](www.linkedin.com/in/rileystrauman)
+- [Portfolio](https://rstrauman.github.io/Rileys-Portfolio/)
+- [Email](mailto:riley.s2003@hotmail.com)
