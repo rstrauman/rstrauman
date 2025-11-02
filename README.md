@@ -17,6 +17,6 @@ I'm an aspiring **Software Developer**, with a passion for creating functional, 
 - 💪 I am a Certified Personal Trainer through canfitpro
 
 ## Connect with Me 🔗
-- [LinkdedIn](www.linkedin.com/in/rileystrauman)
+- [LinkedIn](www.linkedin.com/in/rileystrauman)
 - [Portfolio](https://rstrauman.github.io/Rileys-Portfolio/)
 - [Email](mailto:riley.s2003@hotmail.com)
