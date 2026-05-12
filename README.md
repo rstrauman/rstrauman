@@ -9,8 +9,8 @@ I'm an aspiring **Software Developer**, with a passion for creating functional, 
 These days I am passionate about **front-end development**, I enjoy blending creativity with logic and building experiences that are both user friendly and efficient. My goal is to continue growing as a developer while creating meaningful projects to help people in their day to day lives. 
 
 ## Tech Tools ⚙️
-- Languages: JavaScript, C#
-- Tools: Git, GitHub, VS Code, Unity
+- Languages: JavaScript, C#, SQL
+- Tools: Git, GitHub, VS Code, Visual Studio, Unity, NodeJS, Firebase
 - Interests: Web Development, Game Development
 
 ## Fun Facts 🎉
