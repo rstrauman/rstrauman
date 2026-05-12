@@ -19,7 +19,7 @@ These days I am passionate about **front-end development**, I enjoy blending cre
 - 💪 I am a Certified Personal Trainer through canfitpro
 
 ## My Stats
-![Riley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rstrauman&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rstrauman&layout=compact&theme=tokyonight)
 
 ## Connect with Me 🔗
 - [LinkedIn](https://www.linkedin.com/in/rileystrauman)
